@@ -1,4 +1,0 @@
-karmasiksayi
-============
-
-karmasiksayi
